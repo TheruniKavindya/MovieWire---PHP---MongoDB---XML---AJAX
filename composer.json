@@ -1,0 +1,17 @@
+{
+    "name": "asus/movie-wire",
+    "autoload": {
+        "psr-4": {
+            "Asus\\MovieWire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TheruniKavindya",
+            "email": "theruniks1998@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.13"
+    }
+}
